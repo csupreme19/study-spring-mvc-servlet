@@ -1,4 +1,4 @@
-package hello.servlet.web.springmvc;
+package hello.servlet.web.springmvc.v2;
 
 import hello.servlet.domain.member.Member;
 import hello.servlet.domain.member.MemberRepository;
